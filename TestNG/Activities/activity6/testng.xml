@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite parallel="false" name="Suite">
+	<test name="FSTTests">
+		<parameter name= "username" value="admin"/>
+		<parameter name= "password" value="password"/>
+		<classes>
+			<class name="activity6.Activity6" />
+		</classes>
+	</test>
+</suite>

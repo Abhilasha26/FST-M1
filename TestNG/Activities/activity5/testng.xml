@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite parallel="false" name="Suite">
+	<test name="FSTTests">
+		<groups>
+			<run>
+				<!-- <exclude name="HeaderTests" /> -->
+				<!--<include name="HeaderTests"/>  -->
+			</run>
+		</groups>
+		<classes>
+			<class name="activity5.Activity5" />
+			<class name="activities.Activity1" />
+            <class name="activity4.Activity4_DemoOne" />
+		</classes>
+	</test>
+</suite>
