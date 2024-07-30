@@ -17,7 +17,7 @@ import io.appium.java_client.AppiumBy;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;
 
-public class Example_TouchSlides extends W3CActionBase {
+public class Activity7_Example_TouchSlides extends W3CActionBase {
 	AndroidDriver driver;
 	WebDriverWait wait;
 
